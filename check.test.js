@@ -6,6 +6,6 @@ test('3 + 2 = 5', () => {
     expect(3 + 2).toBe(5)
 })
 
-test('3 + 2 = 7', () => {
-    expect(3 + 2).toBe(7)
+test('5 + 2 = 7', () => {
+    expect(5 + 2).toBe(7)
 })
