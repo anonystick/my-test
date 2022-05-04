@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^28.0.3"
+  },
+  "name": "ci-cd-gitaction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "anonystick <anonystick@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
